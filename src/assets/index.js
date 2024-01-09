@@ -25,6 +25,7 @@ import quizproj from "./quizproj.png";
 import pigproj from "./pigproj.png";
 import guessproj from "./guessproj.png";
 import projetoproj from "./projproj.png";
+import metaproj from "./metaproj.png";
 
 export {
   logo,
@@ -50,4 +51,5 @@ export {
   pigproj,
   guessproj,
   projetoproj,
+  metaproj,
 };
